@@ -1,4 +1,5 @@
 node_modules/
 .expo/
 npm-debug.*
-govhack.keystore
+android/app/govhack.keystore
+android/app/build/outputs/apk
