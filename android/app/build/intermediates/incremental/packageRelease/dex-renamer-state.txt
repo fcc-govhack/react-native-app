@@ -1,4 +1,0 @@
-#Sat Jul 22 22:33:31 AEST 2017
-base.0=/Users/matthewburfield/Development/hackathons/govhack/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/matthewburfield/Development/hackathons/govhack/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex
