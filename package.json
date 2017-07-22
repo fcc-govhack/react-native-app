@@ -24,6 +24,6 @@
   "dependencies": {
     "eslint": "^4.3.0",
     "react": "16.0.0-alpha.12",
-    "react-nativ`e": "^0.45.1"
+    "react-native": "^0.45.1"
   }
 }
