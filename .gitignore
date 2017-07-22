@@ -3,3 +3,5 @@ node_modules/
 npm-debug.*
 android/app/govhack.keystore
 android/app/build
+android/.gradle
+android/build
