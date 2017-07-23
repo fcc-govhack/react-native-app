@@ -18,8 +18,8 @@ script:
 deploy:
   provider: testfairy
   api-key: $DEPLOY_API_KEY
-  app-file: ./android/app/build/outputs/app-release.apk
-  keystore-file: ./android/app/my-release-key.keystore
+  app-file: app-release.apk
+  keystore-file: my-release-key.keystore
   storepass: $STOREKEY
   alias: govhack
   auto-update: true
