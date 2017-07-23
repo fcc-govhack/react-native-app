@@ -10,6 +10,7 @@
     "eslint-plugin-promise": "3.5.0",
     "eslint-plugin-standard": "3.0.1",
     "jest-expo": "~18.0.0",
+    "react-native-testfairy": "^2.1.5",
     "react-test-renderer": "16.0.0-alpha.12"
   },
   "scripts": {
